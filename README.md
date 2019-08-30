@@ -1,6 +1,6 @@
 # UEAN
 The code for paper [WWW 2019] What We Vote for? Answer Selection from User Expertise View in Community Question Answering.
-Please cite the paper when using the code and the Quora dataset. The Quora dataset is released for only research purposes. Please email me for the Quora dataset. 
+Please cite the paper when using the code and the Quora dataset. The Quora dataset is released for only research purposes. Please email me for the Quora dataset. shan_shan_lyu@163.com
 
 @inproceedings{lyu2019we,
   title={What We Vote for? Answer Selection from User Expertise View in Community Question Answering},
